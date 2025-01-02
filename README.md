@@ -10,7 +10,7 @@ Deployed live on **Render**, this application emphasizes usability, clarity, and
 
 ## Live Demo
 
-You can check out the live demo of the project here: <a href="https://calendar-communication-tracker-frontend.onrender.com/login" target="_blank">Live Demo</a>
+You can check out the live demo of the project here: <a href="https://appointment-booking-frontend-o55k.onrender.com/" target="_blank">Live Demo</a>
 
 
 ## Features

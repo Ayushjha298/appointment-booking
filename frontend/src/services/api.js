@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://appointment-booking-backend-sljd.onrender.com/api";
 
 export const fetchSlots = async (date) => {
   try {
